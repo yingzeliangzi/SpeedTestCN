@@ -12,7 +12,7 @@ chmod +x SpeedTestCN.sh
 
 [查看全部节点列表](https://github.com/yingzeliangzi/SpeedTestCN)
 
-![测速图](https://i.loli.net/2019/12/23/H8WtjGTgDqVsUaL.jpg)
+![image](https://user-images.githubusercontent.com/92672842/181732737-156af232-dd42-481e-93b0-61fb8589afb6.png)
 
 ---
 
