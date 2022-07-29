@@ -10,7 +10,7 @@ chmod +x SpeedTestCN.sh
 ./SpeedTestCN.sh
 ```
 
-[查看全部节点列表](https://github.com/yingzeliangzi/SpeedTestCN/ServerList.md)
+[查看全部节点列表](https://github.com/yingzeliangzi/SpeedTestCN/blob/master/ServerList.md)
 
 ![image](https://user-images.githubusercontent.com/92672842/181732737-156af232-dd42-481e-93b0-61fb8589afb6.png)
 
