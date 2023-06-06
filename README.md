@@ -1,7 +1,7 @@
 ## SpeedTestCN
 SpeedTestCN.sh with updated server lists.
 
-2022/7/29更新了精选服务器列表
+2023/6/6更新了精选服务器列表
 
 ## Usage
 ```
