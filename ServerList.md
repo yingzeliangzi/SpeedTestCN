@@ -17,6 +17,8 @@
 | 28946 | Chongqing |
 | 3973 | Lanzhou |
 | 29071 | Chengdu |
+| 17145 | Hefei |
+| 26352 | Nanjing |
 
 </td><td>
 
@@ -27,6 +29,8 @@
 | 45170 | Wuxi |
 | 4884 | Fuzhou |
 | 4870 | Changsha |
+| 43752 | Beijing |
+| 35527 | Chengdu |
 
 </td><td>
 
@@ -37,6 +41,8 @@
 | 16145 | Lanzhou |
 | 15863 | Nanjing |
 | 4575 | Chengdu |
+| 29105 | Xian |
+| 54312 | Hangzhou |
 
 </td></tr> 
 
