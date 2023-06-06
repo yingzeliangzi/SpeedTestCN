@@ -110,7 +110,7 @@ speed_test(){
 preinfo() {
 	echo "——————————————————————————————————————————————————————————"
 	echo " SuperSpeed 全面测速修复版. By UXH & ernisn & oooldking"
-	echo " 节点更新: 2022/7/29 | 脚本更新: 2021/12/23"
+	echo " 节点更新: 2023/6/6 | 脚本更新: 2021/12/23"
 	echo " Github: https://github.com/yingzeliangzi/SpeedTestCN"
 	echo "——————————————————————————————————————————————————————————"
 }
@@ -146,18 +146,24 @@ runtest() {
 	 speed_test '28946' 'Chongqing' '电信'
 	 speed_test '3973' 'Lanzhou' '电信'
 	 speed_test '29071' 'Chengdu' '电信'
+	 speed_test '17145' 'Hefei' '电信'
+	 speed_test '26352' 'Nanjing' '电信'
 		#***
 	 speed_test '37235' 'Shenyang' '联通'
 	 speed_test '24447' 'Shanghai' '联通'
 	 speed_test '45170' 'Wuxi' '联通'
 	 speed_test '4884' 'Fuzhou' '联通'
 	 speed_test '4870' 'Changsha' '联通'
+	 speed_test '43752' 'Beijing' '联通'
+	 speed_test '35527' 'Chengdu' '联通'
 		#***
 	 speed_test '16171' 'Fuzhou' '移动'
 	 speed_test '26940' 'Yinchuan' '移动'
 	 speed_test '16145' 'Lanzhou' '移动'
 	 speed_test '15863' 'Nanjing' '移动'
 	 speed_test '4575' 'Chengdu' '移动'
+	 speed_test '29105' 'Xian' '移动'
+	 speed_test '54312' 'Hangzhou' '移动'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
@@ -189,18 +195,24 @@ runtest() {
 	 speed_test '28946' 'Chongqing' '电信'
 	 speed_test '3973' 'Lanzhou' '电信'
 	 speed_test '29071' 'Chengdu' '电信'
+	 speed_test '17145' 'Hefei' '电信'
+	 speed_test '26352' 'Nanjing' '电信'
 
 	 speed_test '37235' 'Shenyang' '联通'
 	 speed_test '24447' 'Shanghai' '联通'
 	 speed_test '45170' 'Wuxi' '联通'
 	 speed_test '4884' 'Fuzhou' '联通'
 	 speed_test '4870' 'Changsha' '联通'
+	 speed_test '43752' 'Beijing' '联通'
+	 speed_test '35527' 'Chengdu' '联通'
 
 	 speed_test '16171' 'Fuzhou' '移动'
 	 speed_test '26940' 'Yinchuan' '移动'
 	 speed_test '16145' 'Lanzhou' '移动'
 	 speed_test '15863' 'Nanjing' '移动'
 	 speed_test '4575' 'Chengdu' '移动'
+	 speed_test '29105' 'Xian' '移动'
+	 speed_test '54312' 'Hangzhou' '移动'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
@@ -232,6 +244,8 @@ runtest() {
 	 speed_test '28946' 'Chongqing' '电信'
 	 speed_test '3973' 'Lanzhou' '电信'
 	 speed_test '29071' 'Chengdu' '电信'
+	 speed_test '17145' 'Hefei' '电信'
+	 speed_test '26352' 'Nanjing' '电信'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
@@ -258,6 +272,8 @@ runtest() {
 	 speed_test '45170' 'Wuxi' '联通'
 	 speed_test '4884' 'Fuzhou' '联通'
 	 speed_test '4870' 'Changsha' '联通'
+	 speed_test '43752' 'Beijing' '联通'
+	 speed_test '35527' 'Chengdu' '联通'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
@@ -284,6 +300,8 @@ runtest() {
 	 speed_test '16145' 'Lanzhou' '移动'
 	 speed_test '15863' 'Nanjing' '移动'
 	 speed_test '4575' 'Chengdu' '移动'
+	 speed_test '29105' 'Xian' '移动'
+	 speed_test '54312' 'Hangzhou' '移动'
 
 		end=$(date +%s)  
 		rm -rf speedtest*
